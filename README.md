@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Vitória Marinho  
 
-<!--
-**VitoriaM18/VitoriaM18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Gestão de TI** e apaixonada por desenvolvimento de software.  
+🚀 Buscando oportunidades como **Desenvolvedora Full Stack**.  
+💡 Atualmente focada em **Python, HTML e JavaScript**.  
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias e Ferramentas  
+- Linguagens: Python, JavaScript  
+- Front-end: HTML, CSS (em aprendizado)  
+- Back-end: Flask (em aprendizado)  
+- Banco de Dados: SQLite (aprendendo conceitos)  
+- Versionamento: Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projetos em Destaque  
+🔹 [Projeto de Automação Python](https://github.com/VitoriaM18/automacao-python)  
+É um projeto que visa a automação de preenchimentos de bancos de dados, o que facilita e agiliza um trabalho que poderia ter horas de duração.
+
+## 📫 Contato  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitória%20Marinho-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vitoria-marinho-380023254/)  
+
+📌 **Buscando minha primeira oportunidade na área!** Fique à vontade para explorar meus projetos. 🚀
